@@ -108,7 +108,7 @@ class RiskManager:
         """Emergency stop - disables all trading"""
         self.config.trading_halted = True
         self.config.halt_reason = reason
-        logger.critical(f"🛑 TRADING HALTED: {reason}")
+        logger.critical(f"[HALT] TRADING HALTED: {reason}")
     
     def resume_trading(self):
         """Resume trading after halt"""
@@ -249,7 +249,7 @@ class RiskManager:
         """Generate a risk report"""
         lines = [
             "\n" + "="*70,
-            "⚠️  RISK MANAGEMENT REPORT",
+            "[RISK MANAGEMENT REPORT]",
             "="*70,
             f"Trading Halted: {self.config.trading_halted}",
             f"Daily Trades: {len(self.daily_trades)}/{self.config.max_trades_per_day}",

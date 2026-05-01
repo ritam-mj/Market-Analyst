@@ -379,6 +379,106 @@
       },
       "mse": 0.0,
       "final_price": 713.9400024414062
+    },
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 0.08815592481486804,
+      "final_price": 99.8506288504691
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 718.6599731445312
+    },
+    {
+      "scenario": "chop",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.05
+      },
+      "mse": 0.0839145096402775,
+      "final_price": 99.34915494576667
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 718.6599731445312
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.08310267812825366,
+      "final_price": 99.92412697094116
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 718.6599731445312
+    },
+    {
+      "scenario": "flash_crash",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 510.95773290931584,
+      "final_price": 76.39034854784126
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 718.6599731445312
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.0608412534660183,
+      "final_price": 99.64638662505108
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 718.6599731445312
     }
   ],
   "best_params": {}
