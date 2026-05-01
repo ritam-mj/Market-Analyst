@@ -1,0 +1,385 @@
+{
+  "history": [
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 9.419008395345973,
+      "final_price": 99.88443509350702
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.04521613868157668,
+      "final_price": 100.08136027624674
+    },
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 0.020569045265485624,
+      "final_price": 99.18085472289621
+    },
+    {
+      "scenario": "chop",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.05
+      },
+      "mse": 0.049769608982004124,
+      "final_price": 99.86142143435208
+    },
+    {
+      "scenario": "flash_crash",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 415.28579340871545,
+      "final_price": 83.48972337761685
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.5732643968781594,
+      "final_price": 99.2240695797643
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.029846884142420753,
+      "final_price": 99.20693575936569
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.038252946897544285,
+      "final_price": 99.74628125782219
+    },
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 0.06202723646369124,
+      "final_price": 99.54231645116845
+    },
+    {
+      "scenario": "chop",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.05
+      },
+      "mse": 0.026164724821067145,
+      "final_price": 99.52183659062932
+    },
+    {
+      "scenario": "flash_crash",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 408.9199890339406,
+      "final_price": 83.27492990631127
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.06488155637480801,
+      "final_price": 99.1372006128829
+    },
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 0.023738442629312236,
+      "final_price": 99.87561867930104
+    },
+    {
+      "scenario": "chop",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.05
+      },
+      "mse": 0.02915231181018686,
+      "final_price": 100.1662781503518
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.03498152690139233,
+      "final_price": 99.31084196701043
+    },
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 0.5788238173625027,
+      "final_price": 99.46444643704505
+    },
+    {
+      "scenario": "chop",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.05
+      },
+      "mse": 0.06154251196854932,
+      "final_price": 99.30971634556195
+    },
+    {
+      "scenario": "flash_crash",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 509.6795363834632,
+      "final_price": 76.52632622290548
+    },
+    {
+      "scenario": "bull",
+      "params": {
+        "lamb": 0.05,
+        "mu_j": 0.01,
+        "sigma_j": 0.02
+      },
+      "mse": 0.03666601572682539,
+      "final_price": 99.80551749042412
+    },
+    {
+      "scenario": "bear",
+      "params": {
+        "lamb": 0.25,
+        "mu_j": -0.03,
+        "sigma_j": 0.1
+      },
+      "mse": 0.10356649346282772,
+      "final_price": 99.46185465617235
+    },
+    {
+      "scenario": "chop",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.05
+      },
+      "mse": 0.013365716409753642,
+      "final_price": 99.60527598071606
+    },
+    {
+      "scenario": "flash_crash",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 502.29882048347025,
+      "final_price": 81.03639992014645
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.18402132020277465,
+      "final_price": 99.03527964021681
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.5768639323837059,
+      "final_price": 99.80736569982895
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.47020414631964,
+      "final_price": 98.42259075551594
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 1.4076039573101338,
+      "final_price": 100.61218914227952
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.15489473751614566,
+      "final_price": 100.57161495356608
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 634.0900268554688
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 2.5655139843560955,
+      "final_price": 100.053575546536
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 634.0900268554688
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.44053136887979305,
+      "final_price": 100.57878877822596
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 634.0900268554688
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 1.1392582456842124,
+      "final_price": 100.30672930845154
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 634.0900268554688
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.48870226568519215,
+      "final_price": 100.0675454103371
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 634.0900268554688
+    },
+    {
+      "scenario": "mixed",
+      "params": {
+        "lamb": 0.12,
+        "mu_j": -0.01,
+        "sigma_j": 0.06
+      },
+      "mse": 0.027657861488889927,
+      "final_price": 99.63154231804303
+    },
+    {
+      "scenario": "real_data",
+      "params": {
+        "lamb": 0.1,
+        "mu_j": 0.0,
+        "sigma_j": 0.01
+      },
+      "mse": 0.0,
+      "final_price": 713.9400024414062
+    }
+  ],
+  "best_params": {}
+}
